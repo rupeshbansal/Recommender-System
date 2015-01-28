@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/classifier/df/mapreduce/inmem
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/classifier/df/mapreduce/inmem/package-info.java
+END
+InMemMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/classifier/df/mapreduce/inmem/InMemMapper.java
+END
+InMemBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/classifier/df/mapreduce/inmem/InMemBuilder.java
+END
+InMemInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/classifier/df/mapreduce/inmem/InMemInputFormat.java
+END

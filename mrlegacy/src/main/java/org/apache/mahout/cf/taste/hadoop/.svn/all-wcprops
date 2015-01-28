@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/cf/taste/hadoop
+END
+EntityEntityWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/cf/taste/hadoop/EntityEntityWritable.java
+END
+EntityPrefWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/cf/taste/hadoop/EntityPrefWritable.java
+END
+ToEntityPrefsMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/cf/taste/hadoop/ToEntityPrefsMapper.java
+END
+ToItemPrefsMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/cf/taste/hadoop/ToItemPrefsMapper.java
+END
+TopItemsQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/cf/taste/hadoop/TopItemsQueue.java
+END
+MutableRecommendedItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/cf/taste/hadoop/MutableRecommendedItem.java
+END
+TasteHadoopUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/cf/taste/hadoop/TasteHadoopUtils.java
+END
+RecommendedItemsWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/cf/taste/hadoop/RecommendedItemsWritable.java
+END

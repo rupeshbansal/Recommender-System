@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/vectorizer/pruner
+END
+WordsPrunerReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/vectorizer/pruner/WordsPrunerReducer.java
+END
+PrunedPartialVectorMergeReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/vectorizer/pruner/PrunedPartialVectorMergeReducer.java
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/common/distance
+END
+DefaultDistanceMeasureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/common/distance/DefaultDistanceMeasureTest.java
+END
+DefaultWeightedDistanceMeasureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/common/distance/DefaultWeightedDistanceMeasureTest.java
+END
+TestChebyshevMeasure.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/common/distance/TestChebyshevMeasure.java
+END
+TestEuclideanDistanceMeasure.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/common/distance/TestEuclideanDistanceMeasure.java
+END
+TestTanimotoDistanceMeasure.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/common/distance/TestTanimotoDistanceMeasure.java
+END
+TestWeightedEuclideanDistanceMeasureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/common/distance/TestWeightedEuclideanDistanceMeasureTest.java
+END
+TestManhattanDistanceMeasure.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/common/distance/TestManhattanDistanceMeasure.java
+END
+TestWeightedManhattanDistanceMeasure.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/common/distance/TestWeightedManhattanDistanceMeasure.java
+END
+TestMahalanobisDistanceMeasure.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/common/distance/TestMahalanobisDistanceMeasure.java
+END
+CosineDistanceMeasureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/common/distance/CosineDistanceMeasureTest.java
+END
+TestMinkowskiMeasure.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/common/distance/TestMinkowskiMeasure.java
+END

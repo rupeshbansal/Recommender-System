@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/clustering/streaming/mapreduce
+END
+StreamingKMeansThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/clustering/streaming/mapreduce/StreamingKMeansThread.java
+END
+CentroidWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/clustering/streaming/mapreduce/CentroidWritable.java
+END
+StreamingKMeansReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/clustering/streaming/mapreduce/StreamingKMeansReducer.java
+END
+StreamingKMeansDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/clustering/streaming/mapreduce/StreamingKMeansDriver.java
+END
+StreamingKMeansUtilsMR.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/clustering/streaming/mapreduce/StreamingKMeansUtilsMR.java
+END
+StreamingKMeansMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/clustering/streaming/mapreduce/StreamingKMeansMapper.java
+END

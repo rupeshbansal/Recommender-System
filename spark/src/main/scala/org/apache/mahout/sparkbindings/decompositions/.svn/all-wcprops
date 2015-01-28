@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1592933/mahout/trunk/spark/src/main/scala/org/apache/mahout/sparkbindings/decompositions
+END
+DSSVD.scala
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1592933/mahout/trunk/spark/src/main/scala/org/apache/mahout/sparkbindings/decompositions/DSSVD.scala
+END
+DQR.scala
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1582021/mahout/trunk/spark/src/main/scala/org/apache/mahout/sparkbindings/decompositions/DQR.scala
+END
+DSPCA.scala
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1592933/mahout/trunk/spark/src/main/scala/org/apache/mahout/sparkbindings/decompositions/DSPCA.scala
+END

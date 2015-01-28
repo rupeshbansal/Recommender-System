@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/classifier/sequencelearning/hmm
+END
+HMMAlgorithmsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/classifier/sequencelearning/hmm/HMMAlgorithmsTest.java
+END
+HMMTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/classifier/sequencelearning/hmm/HMMTestBase.java
+END
+HMMModelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/classifier/sequencelearning/hmm/HMMModelTest.java
+END
+HMMUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/classifier/sequencelearning/hmm/HMMUtilsTest.java
+END
+HMMEvaluatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/classifier/sequencelearning/hmm/HMMEvaluatorTest.java
+END
+HMMTrainerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/classifier/sequencelearning/hmm/HMMTrainerTest.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1590364/mahout/trunk/spark/src/main/scala/org/apache/mahout/sparkbindings/io
+END
+MahoutKryoRegistrator.scala
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1575169/mahout/trunk/spark/src/main/scala/org/apache/mahout/sparkbindings/io/MahoutKryoRegistrator.scala
+END
+WritableKryoSerializer.scala
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1590364/mahout/trunk/spark/src/main/scala/org/apache/mahout/sparkbindings/io/WritableKryoSerializer.scala
+END

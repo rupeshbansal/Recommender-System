@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1589027/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/classifier/naivebayes/test
+END
+BayesTestMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1589027/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/classifier/naivebayes/test/BayesTestMapper.java
+END
+TestNaiveBayesDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1589027/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/classifier/naivebayes/test/TestNaiveBayesDriver.java
+END

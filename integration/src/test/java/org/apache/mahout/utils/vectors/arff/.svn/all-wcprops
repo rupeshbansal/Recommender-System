@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1551035/mahout/trunk/integration/src/test/java/org/apache/mahout/utils/vectors/arff
+END
+MapBackedARFFModelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1546636/mahout/trunk/integration/src/test/java/org/apache/mahout/utils/vectors/arff/MapBackedARFFModelTest.java
+END
+ARFFVectorIterableTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1551035/mahout/trunk/integration/src/test/java/org/apache/mahout/utils/vectors/arff/ARFFVectorIterableTest.java
+END
+DriverTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1519115/mahout/trunk/integration/src/test/java/org/apache/mahout/utils/vectors/arff/DriverTest.java
+END
+ARFFTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1519115/mahout/trunk/integration/src/test/java/org/apache/mahout/utils/vectors/arff/ARFFTypeTest.java
+END

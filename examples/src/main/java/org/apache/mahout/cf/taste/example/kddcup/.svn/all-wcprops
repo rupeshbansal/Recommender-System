@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1592656/mahout/trunk/examples/src/main/java/org/apache/mahout/cf/taste/example/kddcup
+END
+ToCSV.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1491265/mahout/trunk/examples/src/main/java/org/apache/mahout/cf/taste/example/kddcup/ToCSV.java
+END
+DataFileIterable.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1076714/mahout/trunk/examples/src/main/java/org/apache/mahout/cf/taste/example/kddcup/DataFileIterable.java
+END
+DataFileIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1492416/mahout/trunk/examples/src/main/java/org/apache/mahout/cf/taste/example/kddcup/DataFileIterator.java
+END
+KDDCupDataModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1544673/mahout/trunk/examples/src/main/java/org/apache/mahout/cf/taste/example/kddcup/KDDCupDataModel.java
+END

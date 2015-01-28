@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1592656/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/cf/taste/impl/recommender
+END
+ItemAverageRecommenderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/cf/taste/impl/recommender/ItemAverageRecommenderTest.java
+END
+MockRecommender.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1592656/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/cf/taste/impl/recommender/MockRecommender.java
+END
+PreferredItemsNeighborhoodCandidateItemsStrategyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/1592656/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/cf/taste/impl/recommender/PreferredItemsNeighborhoodCandidateItemsStrategyTest.java
+END
+GenericItemBasedRecommenderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1592656/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/cf/taste/impl/recommender/GenericItemBasedRecommenderTest.java
+END
+GenericUserBasedRecommenderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1592656/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/cf/taste/impl/recommender/GenericUserBasedRecommenderTest.java
+END
+AllUnknownItemsCandidateItemsStrategyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1592656/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/cf/taste/impl/recommender/AllUnknownItemsCandidateItemsStrategyTest.java
+END
+SamplingCandidateItemsStrategyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1592656/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/cf/taste/impl/recommender/SamplingCandidateItemsStrategyTest.java
+END
+CachingRecommenderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/cf/taste/impl/recommender/CachingRecommenderTest.java
+END
+NullRescorerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/cf/taste/impl/recommender/NullRescorerTest.java
+END
+RandomRecommenderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/cf/taste/impl/recommender/RandomRecommenderTest.java
+END
+TopItemsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/cf/taste/impl/recommender/TopItemsTest.java
+END
+ItemUserAverageRecommenderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/cf/taste/impl/recommender/ItemUserAverageRecommenderTest.java
+END
+ReversingRescorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/cf/taste/impl/recommender/ReversingRescorer.java
+END

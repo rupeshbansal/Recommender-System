@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1592922/mahout/trunk/math-scala/src/test/scala/org/apache/mahout/math/scalabindings
+END
+VectorOpsSuite.scala
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1578527/mahout/trunk/math-scala/src/test/scala/org/apache/mahout/math/scalabindings/VectorOpsSuite.scala
+END
+MatrixOpsSuite.scala
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1578527/mahout/trunk/math-scala/src/test/scala/org/apache/mahout/math/scalabindings/MatrixOpsSuite.scala
+END
+MathSuite.scala
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1592922/mahout/trunk/math-scala/src/test/scala/org/apache/mahout/math/scalabindings/MathSuite.scala
+END
+RLikeVectorOpsSuite.scala
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1590364/mahout/trunk/math-scala/src/test/scala/org/apache/mahout/math/scalabindings/RLikeVectorOpsSuite.scala
+END
+MatlabLikeMatrixOpsSuite.scala
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1578527/mahout/trunk/math-scala/src/test/scala/org/apache/mahout/math/scalabindings/MatlabLikeMatrixOpsSuite.scala
+END
+RLikeMatrixOpsSuite.scala
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1578527/mahout/trunk/math-scala/src/test/scala/org/apache/mahout/math/scalabindings/RLikeMatrixOpsSuite.scala
+END

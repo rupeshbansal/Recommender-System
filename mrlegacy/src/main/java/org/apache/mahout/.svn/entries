@@ -1,0 +1,89 @@
+10
+
+dir
+1652937
+http://svn.apache.org/repos/asf/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout
+http://svn.apache.org/repos/asf
+
+
+
+2014-05-18T21:03:02.314970Z
+1595684
+ssc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+clustering
+dir
+
+fpm
+dir
+
+classifier
+dir
+
+ep
+dir
+
+Version.java
+file
+
+
+
+
+2015-01-19T08:57:24.148360Z
+90b6ddf02c8be9f2700d4716f5f72492
+2012-01-04T14:47:11.280405Z
+1227174
+srowen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1388
+
+cf
+dir
+
+common
+dir
+
+math
+dir
+
+driver
+dir
+
+vectorizer
+dir
+

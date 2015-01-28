@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1595634/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/vectorizer/encoders
+END
+TextValueEncoderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/vectorizer/encoders/TextValueEncoderTest.java
+END
+ContinuousValueEncoderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/vectorizer/encoders/ContinuousValueEncoderTest.java
+END
+ConstantValueEncoderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/vectorizer/encoders/ConstantValueEncoderTest.java
+END
+CachingEncoderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1595634/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/vectorizer/encoders/CachingEncoderTest.java
+END
+InteractionValueEncoderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/vectorizer/encoders/InteractionValueEncoderTest.java
+END
+WordLikeValueEncoderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/vectorizer/encoders/WordLikeValueEncoderTest.java
+END

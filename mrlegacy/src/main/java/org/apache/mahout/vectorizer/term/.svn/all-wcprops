@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1595643/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/vectorizer/term
+END
+TFPartialVectorReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1595643/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/vectorizer/term/TFPartialVectorReducer.java
+END
+TermDocumentCountMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/vectorizer/term/TermDocumentCountMapper.java
+END
+TermCountMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/vectorizer/term/TermCountMapper.java
+END
+TermDocumentCountReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/vectorizer/term/TermDocumentCountReducer.java
+END
+TermCountReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/vectorizer/term/TermCountReducer.java
+END
+TermCountCombiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/vectorizer/term/TermCountCombiner.java
+END

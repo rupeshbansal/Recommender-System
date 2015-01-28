@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1491214/mahout/trunk/integration/src/main/java/org/apache/mahout/clustering/evaluation
+END
+RepresentativePointsMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1428081/mahout/trunk/integration/src/main/java/org/apache/mahout/clustering/evaluation/RepresentativePointsMapper.java
+END
+ClusterEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1486122/mahout/trunk/integration/src/main/java/org/apache/mahout/clustering/evaluation/ClusterEvaluator.java
+END
+RepresentativePointsReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1293712/mahout/trunk/integration/src/main/java/org/apache/mahout/clustering/evaluation/RepresentativePointsReducer.java
+END
+RepresentativePointsDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1491214/mahout/trunk/integration/src/main/java/org/apache/mahout/clustering/evaluation/RepresentativePointsDriver.java
+END

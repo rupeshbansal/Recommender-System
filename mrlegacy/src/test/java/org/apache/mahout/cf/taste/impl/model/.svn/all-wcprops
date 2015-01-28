@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/cf/taste/impl/model
+END
+GenericDataModelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/cf/taste/impl/model/GenericDataModelTest.java
+END
+GenericItemPreferenceArrayTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/cf/taste/impl/model/GenericItemPreferenceArrayTest.java
+END
+GenericUserPreferenceArrayTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/cf/taste/impl/model/GenericUserPreferenceArrayTest.java
+END
+PlusAnonymousConcurrentUserDataModelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/cf/taste/impl/model/PlusAnonymousConcurrentUserDataModelTest.java
+END
+MemoryIDMigratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/cf/taste/impl/model/MemoryIDMigratorTest.java
+END
+BooleanItemPreferenceArrayTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/cf/taste/impl/model/BooleanItemPreferenceArrayTest.java
+END
+BooleanUserPreferenceArrayTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/cf/taste/impl/model/BooleanUserPreferenceArrayTest.java
+END

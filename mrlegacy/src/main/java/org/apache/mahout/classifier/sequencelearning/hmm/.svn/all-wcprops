@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/classifier/sequencelearning/hmm
+END
+HmmAlgorithms.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/classifier/sequencelearning/hmm/HmmAlgorithms.java
+END
+BaumWelchTrainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/classifier/sequencelearning/hmm/BaumWelchTrainer.java
+END
+RandomSequenceGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/classifier/sequencelearning/hmm/RandomSequenceGenerator.java
+END
+HmmModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/classifier/sequencelearning/hmm/HmmModel.java
+END
+HmmUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/classifier/sequencelearning/hmm/HmmUtils.java
+END
+HmmEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/classifier/sequencelearning/hmm/HmmEvaluator.java
+END
+LossyHmmSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/classifier/sequencelearning/hmm/LossyHmmSerializer.java
+END
+HmmTrainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/classifier/sequencelearning/hmm/HmmTrainer.java
+END
+ViterbiEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/classifier/sequencelearning/hmm/ViterbiEvaluator.java
+END

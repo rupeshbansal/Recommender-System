@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1588565/mahout/trunk/integration/src/main/java/org/apache/mahout/utils
+END
+MatrixDumper.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1463115/mahout/trunk/integration/src/main/java/org/apache/mahout/utils/MatrixDumper.java
+END
+ConcatenateVectorsReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1492416/mahout/trunk/integration/src/main/java/org/apache/mahout/utils/ConcatenateVectorsReducer.java
+END
+ConcatenateVectorsJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1492434/mahout/trunk/integration/src/main/java/org/apache/mahout/utils/ConcatenateVectorsJob.java
+END
+SequenceFileDumper.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1588565/mahout/trunk/integration/src/main/java/org/apache/mahout/utils/SequenceFileDumper.java
+END
+SplitInputJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1588565/mahout/trunk/integration/src/main/java/org/apache/mahout/utils/SplitInputJob.java
+END
+Bump125.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1461119/mahout/trunk/integration/src/main/java/org/apache/mahout/utils/Bump125.java
+END
+SplitInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1544673/mahout/trunk/integration/src/main/java/org/apache/mahout/utils/SplitInput.java
+END

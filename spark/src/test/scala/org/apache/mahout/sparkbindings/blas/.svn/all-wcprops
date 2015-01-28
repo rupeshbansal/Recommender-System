@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1575169/mahout/trunk/spark/src/test/scala/org/apache/mahout/sparkbindings/blas
+END
+AtASuite.scala
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1575169/mahout/trunk/spark/src/test/scala/org/apache/mahout/sparkbindings/blas/AtASuite.scala
+END
+ABtSuite.scala
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1575169/mahout/trunk/spark/src/test/scala/org/apache/mahout/sparkbindings/blas/ABtSuite.scala
+END
+AewBSuite.scala
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1575169/mahout/trunk/spark/src/test/scala/org/apache/mahout/sparkbindings/blas/AewBSuite.scala
+END
+AtSuite.scala
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1575169/mahout/trunk/spark/src/test/scala/org/apache/mahout/sparkbindings/blas/AtSuite.scala
+END

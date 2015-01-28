@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1588655/mahout/trunk/examples/src/main/java/org/apache/mahout/classifier/sgd/bankmarketing
+END
+TelephoneCallParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1588655/mahout/trunk/examples/src/main/java/org/apache/mahout/classifier/sgd/bankmarketing/TelephoneCallParser.java
+END
+BankMarketingClassificationMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1588652/mahout/trunk/examples/src/main/java/org/apache/mahout/classifier/sgd/bankmarketing/BankMarketingClassificationMain.java
+END
+TelephoneCall.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1588655/mahout/trunk/examples/src/main/java/org/apache/mahout/classifier/sgd/bankmarketing/TelephoneCall.java
+END

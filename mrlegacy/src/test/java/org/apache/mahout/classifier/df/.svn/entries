@@ -1,0 +1,80 @@
+10
+
+dir
+1652937
+http://svn.apache.org/repos/asf/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/classifier/df
+http://svn.apache.org/repos/asf
+
+
+
+2014-02-25T14:15:06.199332Z
+1571704
+srowen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+mapreduce
+dir
+
+node
+dir
+
+builder
+dir
+
+data
+dir
+
+split
+dir
+
+tools
+dir
+
+DecisionForestTest.java
+file
+
+
+
+
+2015-01-19T08:57:18.392360Z
+c83e09497a2a233d8b73a7a389b4a778
+2013-01-02T21:51:52.218577Z
+1428081
+srowen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7343
+

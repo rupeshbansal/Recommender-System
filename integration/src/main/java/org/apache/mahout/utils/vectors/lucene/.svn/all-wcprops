@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1549087/mahout/trunk/integration/src/main/java/org/apache/mahout/utils/vectors/lucene
+END
+TFDFMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1461119/mahout/trunk/integration/src/main/java/org/apache/mahout/utils/vectors/lucene/TFDFMapper.java
+END
+AbstractLuceneIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1461119/mahout/trunk/integration/src/main/java/org/apache/mahout/utils/vectors/lucene/AbstractLuceneIterator.java
+END
+CachedTermInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1546288/mahout/trunk/integration/src/main/java/org/apache/mahout/utils/vectors/lucene/CachedTermInfo.java
+END
+Driver.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1491008/mahout/trunk/integration/src/main/java/org/apache/mahout/utils/vectors/lucene/Driver.java
+END
+LuceneIterable.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1460571/mahout/trunk/integration/src/main/java/org/apache/mahout/utils/vectors/lucene/LuceneIterable.java
+END
+ClusterLabels.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1549087/mahout/trunk/integration/src/main/java/org/apache/mahout/utils/vectors/lucene/ClusterLabels.java
+END
+TermInfoClusterInOut.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1463115/mahout/trunk/integration/src/main/java/org/apache/mahout/utils/vectors/lucene/TermInfoClusterInOut.java
+END
+LuceneIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1544673/mahout/trunk/integration/src/main/java/org/apache/mahout/utils/vectors/lucene/LuceneIterator.java
+END

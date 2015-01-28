@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/cf/taste/impl/similarity
+END
+GenericItemSimilarityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/cf/taste/impl/similarity/GenericItemSimilarityTest.java
+END
+SimilarityTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/cf/taste/impl/similarity/SimilarityTestCase.java
+END
+EuclideanDistanceSimilarityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/cf/taste/impl/similarity/EuclideanDistanceSimilarityTest.java
+END
+LogLikelihoodSimilarityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/cf/taste/impl/similarity/LogLikelihoodSimilarityTest.java
+END
+AveragingPreferenceInferrerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/cf/taste/impl/similarity/AveragingPreferenceInferrerTest.java
+END
+SpearmanCorrelationSimilarityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/cf/taste/impl/similarity/SpearmanCorrelationSimilarityTest.java
+END
+PearsonCorrelationSimilarityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/cf/taste/impl/similarity/PearsonCorrelationSimilarityTest.java
+END
+TanimotoCoefficientSimilarityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/cf/taste/impl/similarity/TanimotoCoefficientSimilarityTest.java
+END

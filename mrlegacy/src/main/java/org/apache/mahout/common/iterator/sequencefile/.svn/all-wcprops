@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/common/iterator/sequencefile
+END
+SequenceFileDirValueIterable.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/common/iterator/sequencefile/SequenceFileDirValueIterable.java
+END
+SequenceFileValueIterable.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/common/iterator/sequencefile/SequenceFileValueIterable.java
+END
+PathType.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/common/iterator/sequencefile/PathType.java
+END
+SequenceFileDirValueIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/common/iterator/sequencefile/SequenceFileDirValueIterator.java
+END
+SequenceFileDirIterable.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/common/iterator/sequencefile/SequenceFileDirIterable.java
+END
+SequenceFileValueIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/common/iterator/sequencefile/SequenceFileValueIterator.java
+END
+SequenceFileIterable.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/common/iterator/sequencefile/SequenceFileIterable.java
+END
+SequenceFileDirIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/common/iterator/sequencefile/SequenceFileDirIterator.java
+END
+SequenceFileIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/common/iterator/sequencefile/SequenceFileIterator.java
+END
+PathFilters.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/common/iterator/sequencefile/PathFilters.java
+END

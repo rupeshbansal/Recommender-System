@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1525203/mahout/trunk/integration/src/main/java/org/apache/mahout/benchmark
+END
+TimesBenchmark.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1525203/mahout/trunk/integration/src/main/java/org/apache/mahout/benchmark/TimesBenchmark.java
+END
+PlusBenchmark.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1525203/mahout/trunk/integration/src/main/java/org/apache/mahout/benchmark/PlusBenchmark.java
+END
+ClosestCentroidBenchmark.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1525203/mahout/trunk/integration/src/main/java/org/apache/mahout/benchmark/ClosestCentroidBenchmark.java
+END
+VectorBenchmarks.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1492416/mahout/trunk/integration/src/main/java/org/apache/mahout/benchmark/VectorBenchmarks.java
+END
+DotBenchmark.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1525203/mahout/trunk/integration/src/main/java/org/apache/mahout/benchmark/DotBenchmark.java
+END
+BenchmarkRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1525203/mahout/trunk/integration/src/main/java/org/apache/mahout/benchmark/BenchmarkRunner.java
+END
+DistanceBenchmark.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1525203/mahout/trunk/integration/src/main/java/org/apache/mahout/benchmark/DistanceBenchmark.java
+END
+MinusBenchmark.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1525203/mahout/trunk/integration/src/main/java/org/apache/mahout/benchmark/MinusBenchmark.java
+END
+SerializationBenchmark.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1525203/mahout/trunk/integration/src/main/java/org/apache/mahout/benchmark/SerializationBenchmark.java
+END
+CloneBenchmark.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1525203/mahout/trunk/integration/src/main/java/org/apache/mahout/benchmark/CloneBenchmark.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1595684/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/classifier/mlp
+END
+TrainMultilayerPerceptron.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1595684/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/classifier/mlp/TrainMultilayerPerceptron.java
+END
+MultilayerPerceptron.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1595684/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/classifier/mlp/MultilayerPerceptron.java
+END
+NeuralNetworkFunctions.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/classifier/mlp/NeuralNetworkFunctions.java
+END
+RunMultilayerPerceptron.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1595684/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/classifier/mlp/RunMultilayerPerceptron.java
+END
+NeuralNetwork.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1595684/mahout/trunk/mrlegacy/src/main/java/org/apache/mahout/classifier/mlp/NeuralNetwork.java
+END

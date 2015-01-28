@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1595634/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/vectorizer
+END
+DictionaryVectorizerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/vectorizer/DictionaryVectorizerTest.java
+END
+SparseVectorsFromSequenceFilesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/vectorizer/SparseVectorsFromSequenceFilesTest.java
+END
+HighDFWordsPrunerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/vectorizer/HighDFWordsPrunerTest.java
+END
+RandomDocumentGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/vectorizer/RandomDocumentGenerator.java
+END
+EncodedVectorsFromSequenceFilesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/vectorizer/EncodedVectorsFromSequenceFilesTest.java
+END
+DocumentProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1588649/mahout/trunk/mrlegacy/src/test/java/org/apache/mahout/vectorizer/DocumentProcessorTest.java
+END

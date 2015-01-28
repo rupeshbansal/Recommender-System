@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1551035/mahout/trunk/integration/src/test/resources
+END
+sample.arff
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1491186/mahout/trunk/integration/src/test/resources/sample.arff
+END
+expected-arff-schema.json
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1491186/mahout/trunk/integration/src/test/resources/expected-arff-schema.json
+END
+test.mbox
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1180043/mahout/trunk/integration/src/test/resources/test.mbox
+END
+non-numeric-1.arff
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1551035/mahout/trunk/integration/src/test/resources/non-numeric-1.arff
+END
+non-numeric-2.arff
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1491186/mahout/trunk/integration/src/test/resources/non-numeric-2.arff
+END
+quoted-id.arff
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1491186/mahout/trunk/integration/src/test/resources/quoted-id.arff
+END
+sample-sparse.arff
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1491186/mahout/trunk/integration/src/test/resources/sample-sparse.arff
+END
+date.arff
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1551035/mahout/trunk/integration/src/test/resources/date.arff
+END
+expected-arff-dictionary.csv
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1491186/mahout/trunk/integration/src/test/resources/expected-arff-dictionary.csv
+END
+sample-dense.arff
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1491186/mahout/trunk/integration/src/test/resources/sample-dense.arff
+END

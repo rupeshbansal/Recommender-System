@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/asf/!svn/ver/1595700/mahout/trunk/spark-shell
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/asf/!svn/ver/1595700/mahout/trunk/spark-shell/pom.xml
+END
+mahout-spark-shell.iml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1590048/mahout/trunk/spark-shell/mahout-spark-shell.iml
+END

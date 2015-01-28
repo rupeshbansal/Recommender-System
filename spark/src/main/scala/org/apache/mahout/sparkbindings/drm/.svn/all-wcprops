@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1592933/mahout/trunk/spark/src/main/scala/org/apache/mahout/sparkbindings/drm
+END
+CacheHint.scala
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1592933/mahout/trunk/spark/src/main/scala/org/apache/mahout/sparkbindings/drm/CacheHint.scala
+END
+DrmLike.scala
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1592933/mahout/trunk/spark/src/main/scala/org/apache/mahout/sparkbindings/drm/DrmLike.scala
+END
+DrmLikeOps.scala
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1575169/mahout/trunk/spark/src/main/scala/org/apache/mahout/sparkbindings/drm/DrmLikeOps.scala
+END
+RLikeDrmOps.scala
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1590364/mahout/trunk/spark/src/main/scala/org/apache/mahout/sparkbindings/drm/RLikeDrmOps.scala
+END
+package.scala
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1592933/mahout/trunk/spark/src/main/scala/org/apache/mahout/sparkbindings/drm/package.scala
+END
+DrmRddInput.scala
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1575169/mahout/trunk/spark/src/main/scala/org/apache/mahout/sparkbindings/drm/DrmRddInput.scala
+END
+CheckpointedDrmBase.scala
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1592933/mahout/trunk/spark/src/main/scala/org/apache/mahout/sparkbindings/drm/CheckpointedDrmBase.scala
+END
+CheckpointedOps.scala
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1578527/mahout/trunk/spark/src/main/scala/org/apache/mahout/sparkbindings/drm/CheckpointedOps.scala
+END
+CheckpointedDrm.scala
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1589246/mahout/trunk/spark/src/main/scala/org/apache/mahout/sparkbindings/drm/CheckpointedDrm.scala
+END

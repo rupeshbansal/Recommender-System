@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/1580144/mahout/trunk/buildtools/src/test/resources
+END
+jaas.config
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1580144/mahout/trunk/buildtools/src/test/resources/jaas.config
+END
+java.policy
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1580135/mahout/trunk/buildtools/src/test/resources/java.policy
+END
