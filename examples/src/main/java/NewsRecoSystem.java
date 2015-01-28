@@ -181,10 +181,65 @@ public class NewsRecoSystem {
             }
         }
 
-
-        return convertRecoToJson(recommendations);
+        JSONArray a = convertRecoToJson(recommendations);
+//        executePost(a);
+        return a;
 
     }
+
+//    public static String executePost(JSONArray jsonArray ) throws JSONException {
+//        URL url;
+//        JSONObject j = new JSONObject();
+//        j.put("array",jsonArray);
+//        HttpURLConnection connection = null;
+//        try {
+//            //Create connection
+//            url = new URL("http://10.132.235.67:3000/postNLogs");
+//            connection = (HttpURLConnection)url.openConnection();
+//            connection.setRequestMethod("POST");
+//            connection.setRequestProperty("Content-Type",
+//                    "application/x-www-form-urlencoded");
+//
+//            connection.setRequestProperty("Content-Length", "" +
+//                    Integer.toString(j.toString().getBytes().length));
+//            connection.setRequestProperty("Content-Language", "en-US");
+//
+//            connection.setUseCaches (false);
+//            connection.setDoInput(true);
+//            connection.setDoOutput(true);
+//
+//            //Send request
+//            DataOutputStream wr = new DataOutputStream (
+//                    connection.getOutputStream ());
+//            wr.writeBytes (j.toString());
+//            wr.flush ();
+//            wr.close ();
+//
+//            //Get Response
+//            InputStream is = connection.getInputStream();
+//            BufferedReader rd = new BufferedReader(new InputStreamReader(is));
+//            String line;
+//            StringBuffer response = new StringBuffer();
+//            while((line = rd.readLine()) != null) {
+//                response.append(line);
+//                response.append('\r');
+//            }
+//            rd.close();
+//            return response.toString();
+//
+//        } catch (Exception e) {
+//
+//            e.printStackTrace();
+//            return null;
+//
+//        } finally {
+//
+//            if(connection != null) {
+//                connection.disconnect();
+//            }
+//        }
+//    }
+
 
     private static JSONArray convertRecoToJson(ArrayList<ArrayList<Integer>> list) throws JSONException, IOException {
         int l = list.size();
@@ -260,6 +315,7 @@ public class NewsRecoSystem {
         }
         writer.flush();
         writer.close();
+
         return file;
     }
 
